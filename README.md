@@ -14,7 +14,7 @@
 
 ## api接口的好处
 > 你不用关心加解密！仅需GET请求获取数据即可
-> 我负责风控对抗。例如药监局的ImyafEkG、ZfFPtgUNYgOTP、ZfFPtgUNYgOTO
+> 我负责风控对抗。例如中国邮政网上营业厅的ZfFPtgUNYgOTP和ZfFPtgUNYgOTO
 
 ## 测试
 >沟通价格---->确定自己测试完数据没问题就能买---->免费测试---->正式付款
